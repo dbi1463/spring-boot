@@ -1,0 +1,96 @@
+{
+	"native": {
+		"assets": [
+			{
+				"id": 4,
+				"data": {
+					"value": "是什麼品牌，能在好萊塢持燒發燒，答案就是UGG！不僅變形金剛女主角愛穿，連時尚Icon金手指造型師Rachel  Zoe都大推，不僅有時尚造型，「舒適度」更是無人能及......"
+				}
+			},
+			{
+				"id": 5,
+				"data": {
+					"value": "UGG®"
+				},
+				"link": {
+					"url": "https://www.facebook.com/UGG-450444628492225/?fref=ts",
+					"clicktrackers": []
+				}
+			},
+			{
+				"id": 6,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/7/7/0/76ebda77.png?v=2",
+					"w": 1200,
+					"h": 627
+				}
+			},
+			{
+				"id": 7,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/7/7/0/76ebda77_s.png?v=2",
+					"w": 287,
+					"h": 150
+				}
+			},
+			{
+				"id": 8,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/7/7/0/76ebda77_icon_l.jpg?v=2",
+					"w": 627,
+					"h": 627
+				}
+			},
+			{
+				"id": 9,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/7/7/0/76ebda77_icon_s.jpg?v=2",
+					"w": 80,
+					"h": 80
+				}
+			},
+			{
+				"id": 1,
+				"title": {
+					"text": "女明星人手一雙！最近引爆話題的人氣品牌就是它！"
+				}
+			},
+			{
+				"id": 2,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/7/7/0/76ebda77_icon.jpg?v=2",
+					"w": 250,
+					"h": 250
+				}
+			},
+			{
+				"id": 3,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/7/7/0/76ebda77_m.png?v=2",
+					"w": 574,
+					"h": 300
+				}
+			},
+			{
+				"id": 10,
+				"data": {
+					"label": "ctatext",
+					"value": "來試試看!"
+				}
+			}
+		],
+		"link": {
+			"url": "https://beta-rtb.tenmax.io/bid/asiamax/click/1497922708704/34de6590-5559-11e7-9cd4-dd76d956f8c0/5474/7770/?optInfo=xlKYg0A6C3ru_w&sUrl=http%3A%2F%2Fbeta-ssp.tenmax.io%2Fauction%2Fwinner%2Ftracking%2Fclk%3Fb%3D34de6590-5559-11e7-9cd4-dd76d956f8c0%26i%3D0%26id%3Ddb0efe1b-8522-45f8-a460-86bf42e3e3b8%26adurl%3D&rUrl=https%3A%2F%2Fwww.facebook.com%2FUGG-450444628492225%2F%3Ffref%3Dts",
+			"clicktrackers": []
+		},
+		"impressionEvent": [
+			"//beta-ssp.tenmax.io/supply/tracking/pixel?s=34de6590-5559-11e7-9cd4-dd76d956f8c0&r=55ba76bca772421f",
+			"//beta-ssp.tenmax.io/auction/winner/tracking/pixel?b=34de6590-5559-11e7-9cd4-dd76d956f8c0&sid=55ba76bca772421f&i=0&id=db0efe1b-8522-45f8-a460-86bf42e3e3b8",
+			"https://beta-rtb.tenmax.io/bid/asiamax/impreWithPrice/1497922708704/34de6590-5559-11e7-9cd4-dd76d956f8c0/5474/7770/bd4b9b7903cf40ce/xlKZhoBl/?optInfo=xlKYg0A6C3ru_w"
+		],
+		"viewEvent": [
+			"https://beta-ssp.tenmax.io/auction/winner/tracking/viewed/0/0/34de6590-5559-11e7-9cd4-dd76d956f8c0",
+			"https://beta-rtb.tenmax.io/bid/asiamax/viewable/1497922708704/34de6590-5559-11e7-9cd4-dd76d956f8c0/5474/7770/bd4b9b7903cf40ce/"
+		]
+	}
+}
