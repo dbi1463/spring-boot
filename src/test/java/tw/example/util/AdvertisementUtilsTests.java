@@ -3,12 +3,12 @@ package tw.example.util;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
-import static tw.exmaple.util.AdvertisementUtils.toAdvertisement;
+import static tw.example.util.AdvertisementUtils.toAdvertisement;
 
 import org.junit.Test;
 
-import tw.exmaple.core.Advertisement;
-import tw.exmaple.util.IOUtils;
+import tw.example.core.Advertisement;
+import tw.example.util.IOUtils;
 
 public class AdvertisementUtilsTests {
 

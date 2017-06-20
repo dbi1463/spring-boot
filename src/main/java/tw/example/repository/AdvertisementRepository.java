@@ -1,10 +1,10 @@
-package tw.exmaple.repository;
+package tw.example.repository;
 
 import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
 
-import tw.exmaple.core.Advertisement;
+import tw.example.core.Advertisement;
 
 public interface AdvertisementRepository extends CrudRepository<Advertisement, String> {
 

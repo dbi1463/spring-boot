@@ -1,4 +1,4 @@
-package tw.exmaple.core;
+package tw.example.core;
 
 import static java.lang.Integer.MAX_VALUE;
 

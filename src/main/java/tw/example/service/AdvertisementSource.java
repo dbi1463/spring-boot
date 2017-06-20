@@ -1,11 +1,11 @@
-package tw.exmaple.service;
+package tw.example.service;
 
-import static tw.exmaple.util.AdvertisementUtils.toAdvertisement;
+import static tw.example.util.AdvertisementUtils.toAdvertisement;
 
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.util.UriComponentsBuilder;
 
-import tw.exmaple.core.Advertisement;
+import tw.example.core.Advertisement;
 
 public class AdvertisementSource {
 

@@ -1,16 +1,16 @@
-package tw.exmaple.util;
+package tw.example.util;
 
-import static tw.exmaple.util.JsonUtils.getElement;
-import static tw.exmaple.util.JsonUtils.getElements;
-import static tw.exmaple.util.JsonUtils.getInteger;
-import static tw.exmaple.util.JsonUtils.getString;
-import static tw.exmaple.util.JsonUtils.parse;
+import static tw.example.util.JsonUtils.getElement;
+import static tw.example.util.JsonUtils.getElements;
+import static tw.example.util.JsonUtils.getInteger;
+import static tw.example.util.JsonUtils.getString;
+import static tw.example.util.JsonUtils.parse;
 
 import java.util.List;
 
 import com.google.gson.JsonElement;
 
-import tw.exmaple.core.Advertisement;
+import tw.example.core.Advertisement;
 
 public class AdvertisementUtils {
 

@@ -1,4 +1,4 @@
-package tw.exmaple;
+package tw.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
-import tw.exmaple.service.AdvertisementSource;
+import tw.example.service.AdvertisementSource;
 
 @Configuration
 @EnableScheduling

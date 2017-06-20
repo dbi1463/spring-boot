@@ -1,4 +1,4 @@
-package tw.exmaple.ws.tenmax;
+package tw.example.ws.tenmax;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import tw.exmaple.core.Advertisement;
-import tw.exmaple.repository.AdvertisementRepository;
+import tw.example.core.Advertisement;
+import tw.example.repository.AdvertisementRepository;
 
 @RestController
 public class TenMaxAdvertisementWebService {

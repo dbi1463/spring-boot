@@ -1,4 +1,4 @@
-package tw.exmaple.util;
+package tw.example.util;
 
 import java.io.ByteArrayOutputStream;
 import java.io.Closeable;

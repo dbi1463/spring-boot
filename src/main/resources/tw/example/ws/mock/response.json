@@ -1,0 +1,96 @@
+{
+	"native": {
+		"assets": [
+			{
+				"id": 4,
+				"data": {
+					"value": "獨家酷航線上旅展開跑，6月30日前預訂東京、大阪、首爾和新加坡機+酒只要$4,888起，另有東南亞、澳洲同樣特價中，立刻預訂！"
+				}
+			},
+			{
+				"id": 5,
+				"data": {
+					"value": "Expedia 智遊網"
+				},
+				"link": {
+					"url": "https://ad.doubleclick.net/ddm/trackclk/N6090.2510704TENMAX/B11504922.153080640;dc_trk_aid=323148993;dc_trk_cid=82904926;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=",
+					"clicktrackers": []
+				}
+			},
+			{
+				"id": 6,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/9/1/2/4fcba0ca.jpg?v=1",
+					"w": 1200,
+					"h": 627
+				}
+			},
+			{
+				"id": 7,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/9/1/2/4fcba0ca_s.jpg?v=1",
+					"w": 287,
+					"h": 150
+				}
+			},
+			{
+				"id": 8,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/9/1/2/4fcba0ca_icon_l.jpg?v=1",
+					"w": 627,
+					"h": 627
+				}
+			},
+			{
+				"id": 9,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/9/1/2/4fcba0ca_icon_s.jpg?v=1",
+					"w": 80,
+					"h": 80
+				}
+			},
+			{
+				"id": 1,
+				"title": {
+					"text": "【超便宜der!】3天2夜機+酒只要$4,888"
+				}
+			},
+			{
+				"id": 2,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/9/1/2/4fcba0ca_icon.jpg?v=1",
+					"w": 250,
+					"h": 250
+				}
+			},
+			{
+				"id": 3,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/9/1/2/4fcba0ca_m.jpg?v=1",
+					"w": 574,
+					"h": 300
+				}
+			},
+			{
+				"id": 10,
+				"data": {
+					"label": "ctatext",
+					"value": "來試試看!"
+				}
+			}
+		],
+		"link": {
+			"url": "https://beta-rtb.tenmax.io/bid/asiamax/click/1497936282909/cfcd3c60-5578-11e7-ae8e-291df92b14f5/5432/7912/?optInfo=xlKYjppD-mqFtg&sUrl=http%3A%2F%2Fbeta-ssp.tenmax.io%2Fauction%2Fwinner%2Ftracking%2Fclk%3Fb%3Dcfcd3c60-5578-11e7-ae8e-291df92b14f5%26i%3D0%26id%3Ddb0efe1b-8522-45f8-a460-86bf42e3e3b8%26adurl%3D&rUrl=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN6090.2510704TENMAX%2FB11504922.153080640%3Bdc_trk_aid%3D323148993%3Bdc_trk_cid%3D82904926%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D",
+			"clicktrackers": []
+		},
+		"impressionEvent": [
+			"//beta-ssp.tenmax.io/supply/tracking/pixel?s=cfcd3c60-5578-11e7-ae8e-291df92b14f5&r=55ba76bca772421f",
+			"//beta-ssp.tenmax.io/auction/winner/tracking/pixel?b=cfcd3c60-5578-11e7-ae8e-291df92b14f5&sid=55ba76bca772421f&i=0&id=db0efe1b-8522-45f8-a460-86bf42e3e3b8",
+			"https://beta-rtb.tenmax.io/bid/asiamax/impreWithPrice/1497936282909/cfcd3c60-5578-11e7-ae8e-291df92b14f5/5432/7912/bd4b9b7903cf40ce/xlKZhoBl/?optInfo=xlKYjppD-mqFtg"
+		],
+		"viewEvent": [
+			"https://beta-ssp.tenmax.io/auction/winner/tracking/viewed/0/0/cfcd3c60-5578-11e7-ae8e-291df92b14f5",
+			"https://beta-rtb.tenmax.io/bid/asiamax/viewable/1497936282909/cfcd3c60-5578-11e7-ae8e-291df92b14f5/5432/7912/bd4b9b7903cf40ce/"
+		]
+	}
+}

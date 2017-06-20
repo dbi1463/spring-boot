@@ -1,4 +1,4 @@
-package tw.exmaple.util;
+package tw.example.util;
 
 import java.util.ArrayList;
 import java.util.List;
