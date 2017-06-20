@@ -14,7 +14,7 @@ import tw.exmaple.core.Advertisement;
 
 public class AdvertisementUtils {
 
-	public static Advertisement toAdvertisement(String response) {
+	public static Advertisement toAdvertisement(final String response) {
 		JsonElement json = parse(response);
 		JsonElement root = getElement(json, "native");
 		if (root != null) {
@@ -37,7 +37,7 @@ public class AdvertisementUtils {
 		return null;
 	}
 
-	private static String getAssetString(List<JsonElement> assets, int id, String objectKey, String valueKey) {
+	private static String getAssetString(final List<JsonElement> assets, final int id, final String objectKey, final String valueKey) {
 		for (JsonElement asset : assets) {
 			if (getInteger(asset, "id") == id) {
 				return getString(getElement(asset, objectKey), valueKey);

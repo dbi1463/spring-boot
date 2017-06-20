@@ -18,9 +18,9 @@ public class TenMaxAdvertisementWebService {
 	private AdvertisementRepository repository;
 
 	@RequestMapping("/advertisements")
-	public List<Advertisement> findAdvertisements(@RequestParam(name = "q", defaultValue = "") String keyword) {
+	public List<Advertisement> findAdvertisements(@RequestParam(name = "q", defaultValue = "") final String keyword) {
 		if (keyword.length() > 0) {
-			// TODO: add query method in the repository
+			return repository.findByTitleContaining(keyword);
 		}
 		List<Advertisement> results = new ArrayList<>();
 		repository.findAll().forEach(results::add);
