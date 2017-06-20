@@ -1,0 +1,96 @@
+{
+	"native": {
+		"assets": [
+			{
+				"id": 4,
+				"data": {
+					"value": "當今最紅的好萊塢造型師Rachel  Zoe，她超精準的眼光，讓眾女星崇拜不已，日前她與變形金剛女主角一同現身UGG新品發表，大秀美鞋......"
+				}
+			},
+			{
+				"id": 5,
+				"data": {
+					"value": "UGG®"
+				},
+				"link": {
+					"url": "https://www.facebook.com/UGG-450444628492225/?fref=ts",
+					"clicktrackers": []
+				}
+			},
+			{
+				"id": 6,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/7/7/1/9647e2ee.png?v=2",
+					"w": 1200,
+					"h": 627
+				}
+			},
+			{
+				"id": 7,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/7/7/1/9647e2ee_s.png?v=2",
+					"w": 287,
+					"h": 150
+				}
+			},
+			{
+				"id": 8,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/7/7/1/9647e2ee_icon_l.jpg?v=2",
+					"w": 627,
+					"h": 627
+				}
+			},
+			{
+				"id": 9,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/7/7/1/9647e2ee_icon_s.jpg?v=2",
+					"w": 80,
+					"h": 80
+				}
+			},
+			{
+				"id": 1,
+				"title": {
+					"text": "是什麼讓她成為好萊塢最紅的造型師？超精準眼光…"
+				}
+			},
+			{
+				"id": 2,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/7/7/1/9647e2ee_icon.jpg?v=2",
+					"w": 250,
+					"h": 250
+				}
+			},
+			{
+				"id": 3,
+				"img": {
+					"url": "//tenmaximg.cacafly.net/upload/7/7/7/1/9647e2ee_m.png?v=2",
+					"w": 574,
+					"h": 300
+				}
+			},
+			{
+				"id": 10,
+				"data": {
+					"label": "ctatext",
+					"value": "來試試看!"
+				}
+			}
+		],
+		"link": {
+			"url": "https://beta-rtb.tenmax.io/bid/asiamax/click/1497938863747/d217b9e0-557e-11e7-ae8e-291df92b14f5/5474/7771/?optInfo=xlKYg0A6C3ru_w&sUrl=http%3A%2F%2Fbeta-ssp.tenmax.io%2Fauction%2Fwinner%2Ftracking%2Fclk%3Fb%3Dd217b9e0-557e-11e7-ae8e-291df92b14f5%26i%3D0%26id%3Ddb0efe1b-8522-45f8-a460-86bf42e3e3b8%26adurl%3D&rUrl=https%3A%2F%2Fwww.facebook.com%2FUGG-450444628492225%2F%3Ffref%3Dts",
+			"clicktrackers": []
+		},
+		"impressionEvent": [
+			"//beta-ssp.tenmax.io/supply/tracking/pixel?s=d217b9e0-557e-11e7-ae8e-291df92b14f5&r=55ba76bca772421f",
+			"//beta-ssp.tenmax.io/auction/winner/tracking/pixel?b=d217b9e0-557e-11e7-ae8e-291df92b14f5&sid=55ba76bca772421f&i=0&id=db0efe1b-8522-45f8-a460-86bf42e3e3b8",
+			"https://beta-rtb.tenmax.io/bid/asiamax/impreWithPrice/1497938863748/d217b9e0-557e-11e7-ae8e-291df92b14f5/5474/7771/bd4b9b7903cf40ce/xlKZhoGT/?optInfo=xlKYg0A6C3ru_w"
+		],
+		"viewEvent": [
+			"https://beta-ssp.tenmax.io/auction/winner/tracking/viewed/0/0/d217b9e0-557e-11e7-ae8e-291df92b14f5",
+			"https://beta-rtb.tenmax.io/bid/asiamax/viewable/1497938863748/d217b9e0-557e-11e7-ae8e-291df92b14f5/5474/7771/bd4b9b7903cf40ce/"
+		]
+	}
+}

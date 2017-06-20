@@ -26,4 +26,8 @@ public class TenMaxAdvertisementWebService {
 		repository.findAll().forEach(results::add);
 		return results;
 	}
+
+	void setRepository(final AdvertisementRepository repo) {
+		repository = repo;
+	}
 }

@@ -34,14 +34,13 @@ public class AdvertisementBiddingSystem {
 	@Autowired
 	private AdvertisementRepository repository;
 
-	private long timeout = 5 * 100;
+	private long timeout = 5 * 1000;
 
-	@Scheduled(fixedRate = 1000 * 20)
-	public void refreshAdvertisement() {
-		anyOf(supplyAsync(tenMaxSource::getAdvertisement), supplyAsync(mockSource::getAdvertisement), failAfter(timeout))
+	@Scheduled(fixedRate = 1000 * 60)
+	public CompletableFuture<?> refreshAdvertisement() {
+		return anyOf(supplyAsync(tenMaxSource::getAdvertisement), supplyAsync(mockSource::getAdvertisement), failAfter(timeout))
 			.whenCompleteAsync((final Object ad, final Throwable e) -> {
-				System.out.println(String.format("ad: %s, e: %s", ad, e));
-				if (e == null && ad != null && ad instanceof Advertisement) {
+				if (ad != null && ad instanceof Advertisement) {
 					String title = ((Advertisement)ad).getTitle();
 					if (!repository.exists(title)) {
 						repository.save((Advertisement)ad);
@@ -58,5 +57,21 @@ public class AdvertisementBiddingSystem {
 			return promise.completeExceptionally(exception);
 		}, time, TimeUnit.MILLISECONDS);
 		return promise;
+	}
+
+	void setTenMaxSource(final AdvertisementSource source) {
+		tenMaxSource = source;
+	}
+
+	void setMockSource(final AdvertisementSource source) {
+		mockSource = source;
+	}
+
+	void setRepository(final AdvertisementRepository repo) {
+		repository = repo;
+	}
+
+	void setTimeout(final long time) {
+		timeout = time;
 	}
 }
